@@ -1,0 +1,13 @@
+Available Messenger Bot CLI Commands:
+
+1. start
+   ➔ Starts the Messenger Bot system.
+
+2. send [your message]
+   ➔ Sends a message (you type the message after 'send').
+
+3. help
+   ➔ Displays this list of available commands.
+
+4. exit
+   ➔ Safely exits the CLI application.
