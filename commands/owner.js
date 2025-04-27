@@ -4,9 +4,9 @@ module.exports = () => {
 
 - Name     : Abhaya Bikram Shahi
 - Role     : Creator & Developer
-- Contact  : example@email.com
-- GitHub   : https://github.com/yourusername
-- Version  : v1.0.0
+- Contact  : abhayabikramshahiofficial@gmail.com
+- GitHub   : https://github.com/abhayabikramshahi
+- Version  : v1.1.0
 
 ⚡ Keep grinding. Keep building. Keep dominating. ⚡
     `);
